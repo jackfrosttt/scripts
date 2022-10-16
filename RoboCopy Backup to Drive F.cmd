@@ -1,0 +1,1 @@
+robocopy "D:" "F:\robocopy-backup-of-ssd" /A-:SH /MIR

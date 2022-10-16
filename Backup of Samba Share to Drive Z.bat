@@ -1,0 +1,1 @@
+robocopy "\\192.168.1.151\Samba Share" "Z:\Backups\Backups - Samba Share\RoboCopy Backup" /E /Z /ZB /R:5 /W:5 /TBD /NP /V /MT:16

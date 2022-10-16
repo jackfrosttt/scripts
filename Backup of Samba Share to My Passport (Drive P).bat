@@ -1,0 +1,1 @@
+robocopy "\\192.168.1.151\Samba Share" "P:\robocopy-backup-of-sambashare" /A-:SH /MIR
